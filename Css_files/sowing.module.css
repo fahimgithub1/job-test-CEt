@@ -1,0 +1,59 @@
+.sowingsection{
+    background: #A1A1A1;
+    margin: auto;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    padding-top: .4rem;
+    padding-bottom: 1rem;
+    border-radius: 12px;
+    color: #003637;
+    overflow: hidden;
+    width: 80%;
+    /* height: 100px; */
+}
+
+.tablediv{
+    margin: auto;
+    width: 70%;
+    /* border: 3px solid black; */
+    color: #0426A0;
+}
+
+.tabletr{
+    margin: 0;
+    padding: 0;
+    color: black;
+    font-size: 19px;
+    font-weight: 700;
+}
+
+.tableth{
+    border: 1.5px solid rgb(72, 72, 72);
+}
+
+.naemtext{
+    text-align: left;
+}
+
+
+@media (max-width: 401px){
+    .tablediv {
+        width: 50%;
+    }
+    
+}
+
+@media (max-width: 848px){
+    .sowingsection{
+        width: 90%;
+        /* height: 100px; */
+    }
+    
+}
+
+/* @media ((max-width: 1241px) ){
+    .sowingsection{
+        margin-top: 10rem;
+    }
+    
+} */
