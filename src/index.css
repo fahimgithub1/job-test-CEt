@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css?family=Patrick+Hand+SC|Roboto&display=swap');
+body {
+  margin: 0;
+  font-family: 'Poppins';
+  font-style: normal;
+  background-color: #003637;
+  /* box-sizing: border-box; */
+}
+
+code {
+  font-family: 'Poppins';
+  font-style: normal;
+}
+/* {position: absolute;
+  width: 78px;
+  height: 42px;
+  left: 32px;
+  top: 3px;
+  
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 42px;
+  /* identical to box height */
+  
+  
+  /* color: #FFFFFF;}  */
